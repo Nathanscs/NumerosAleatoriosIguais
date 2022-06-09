@@ -1,0 +1,27 @@
+C:\Users\stron\Downloads\Volibear\Ex9\obj\Debug\netcoreapp3.1\Ex9.csprojAssemblyReference.cache
+C:\Users\stron\Downloads\Volibear\Ex9\obj\Debug\netcoreapp3.1\Ex9.AssemblyInfoInputs.cache
+C:\Users\stron\Downloads\Volibear\Ex9\obj\Debug\netcoreapp3.1\Ex9.AssemblyInfo.cs
+C:\Users\stron\Downloads\Volibear\Ex9\obj\Debug\netcoreapp3.1\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\stron\Downloads\Volibear\Ex9\bin\Debug\netcoreapp3.1\Ex9.exe
+C:\Users\stron\Downloads\Volibear\Ex9\bin\Debug\netcoreapp3.1\Ex9.deps.json
+C:\Users\stron\Downloads\Volibear\Ex9\bin\Debug\netcoreapp3.1\Ex9.runtimeconfig.json
+C:\Users\stron\Downloads\Volibear\Ex9\bin\Debug\netcoreapp3.1\Ex9.runtimeconfig.dev.json
+C:\Users\stron\Downloads\Volibear\Ex9\bin\Debug\netcoreapp3.1\Ex9.dll
+C:\Users\stron\Downloads\Volibear\Ex9\bin\Debug\netcoreapp3.1\Ex9.pdb
+C:\Users\stron\Downloads\Volibear\Ex9\obj\Debug\netcoreapp3.1\Ex9.dll
+C:\Users\stron\Downloads\Volibear\Ex9\obj\Debug\netcoreapp3.1\Ex9.pdb
+C:\Users\stron\Downloads\Volibear\Ex9\obj\Debug\netcoreapp3.1\Ex9.genruntimeconfig.cache
+C:\Users\natha\Desktop\Prova pratica\Ex9\bin\Debug\netcoreapp3.1\Ex9.exe
+C:\Users\natha\Desktop\Prova pratica\Ex9\bin\Debug\netcoreapp3.1\Ex9.deps.json
+C:\Users\natha\Desktop\Prova pratica\Ex9\bin\Debug\netcoreapp3.1\Ex9.runtimeconfig.json
+C:\Users\natha\Desktop\Prova pratica\Ex9\bin\Debug\netcoreapp3.1\Ex9.runtimeconfig.dev.json
+C:\Users\natha\Desktop\Prova pratica\Ex9\bin\Debug\netcoreapp3.1\Ex9.dll
+C:\Users\natha\Desktop\Prova pratica\Ex9\bin\Debug\netcoreapp3.1\Ex9.pdb
+C:\Users\natha\Desktop\Prova pratica\Ex9\obj\Debug\netcoreapp3.1\Ex9.csproj.AssemblyReference.cache
+C:\Users\natha\Desktop\Prova pratica\Ex9\obj\Debug\netcoreapp3.1\Ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Desktop\Prova pratica\Ex9\obj\Debug\netcoreapp3.1\Ex9.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\Prova pratica\Ex9\obj\Debug\netcoreapp3.1\Ex9.AssemblyInfo.cs
+C:\Users\natha\Desktop\Prova pratica\Ex9\obj\Debug\netcoreapp3.1\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\Prova pratica\Ex9\obj\Debug\netcoreapp3.1\Ex9.dll
+C:\Users\natha\Desktop\Prova pratica\Ex9\obj\Debug\netcoreapp3.1\Ex9.pdb
+C:\Users\natha\Desktop\Prova pratica\Ex9\obj\Debug\netcoreapp3.1\Ex9.genruntimeconfig.cache

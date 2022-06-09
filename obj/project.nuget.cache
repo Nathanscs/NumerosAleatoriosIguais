@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6V6U5haRmXNniCO92tTJWMDVfkyZmyFLdA4yhjL3fMQhnkzwimuw7703TwkFeR4n0a0OIEygcgnDUZ4sLeNLJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natha\\Desktop\\Prova pratica\\Ex9\\Ex9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
